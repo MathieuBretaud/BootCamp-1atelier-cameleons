@@ -12,8 +12,9 @@ body{
 text-align: center;
 background-color:#f05768 ;
 color: white;
-border-bottom-left-radius:0.2rem ;
-border-bottom-right-radius:0.2rem ;
+border-bottom-left-radius:8px ;
+border-bottom-right-radius:8px ;
+border-bottom: solid 3px #eee;
 }
 
 a{
